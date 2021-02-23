@@ -1,6 +1,21 @@
 {
-	"pack": {
-		"pack_format": 6,
-		"description": [{"text":"Vanilla Tweaks 1.16","color":"gold"},{"text":"\nvanillatweaks.net","color":"yellow"}]
-	}
+    "pack": {
+        "pack_format": 6,
+        "description": [
+            {
+                "text": "Zelda BOTW Pack",
+                "bold": false,
+                "color": "aqua"
+            },
+            {
+                "text": "\n"
+            },
+            {
+                "text": "Made by Isabis & RedRozio",
+                "bold": false,
+                "color": "gray",
+                "italic": true
+            }
+        ]
+    }
 }
