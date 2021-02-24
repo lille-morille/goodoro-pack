@@ -6,3 +6,4 @@ Colourful Containers: https://www.planetminecraft.com/texture-pack/colourful-con
 Sully's Pack: https://www.curseforge.com/minecraft/texture-packs/sullys-pack
 Spawn Egg 3D: https://www.planetminecraft.com/texture-pack/spawn-egg-3d/
 Ultimate Boss Bars: https://www.planetminecraft.com/texture-pack/ultimate-boss-bars-v1/
+Advanced GUI: https://resourcepack.net/advanced-gui-resource-pack/
