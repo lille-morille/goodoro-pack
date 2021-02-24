@@ -3,16 +3,11 @@
         "pack_format": 6,
         "description": [
             {
-                "text": "Zelda BOTW Pack",
-                "bold": false,
+                "text": "Zelda BOTW Pack\n",
                 "color": "aqua"
             },
             {
-                "text": "\n"
-            },
-            {
                 "text": "Made by Isabis & RedRozio",
-                "bold": false,
                 "color": "gray",
                 "italic": true
             }
