@@ -1,0 +1,19 @@
+{
+  "models": 
+  [
+    {
+      "model": "rid_ravager_head.jpm",
+      "part": "head", 
+	  "attach": false,
+      "translate": [ 8, 0, -14],
+      "rotate": [0, 0, 0]
+    },
+	{
+      "model": "rid_ravager_jaw.jpm",
+      "part": "jaw", 
+	  "attach": false,
+      "translate": [ 8, 0.5, -16],
+      "rotate": [0, 0, 0]
+    }
+  ]
+}

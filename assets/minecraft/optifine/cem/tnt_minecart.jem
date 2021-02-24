@@ -1,0 +1,40 @@
+{
+  "models": 
+  [
+    {
+      "model": "rid_minecart.jpm",
+      "part": "bottom",
+	  "attach": false,
+      "translate": [ -8, -8, -1],
+      "rotate": [-90, 0, -90]
+    },
+	{
+      "model": "rid_void.jpm",
+      "part": "back", 
+	  "attach": false,
+      "translate": [ 0, 0, 0],
+      "rotate": [0, 0, 0]
+    },
+	{
+      "model": "rid_void.jpm",
+      "part": "front", 
+	  "attach": false,
+      "translate": [ 0, 0, 0],
+      "rotate": [0, 0, 0]
+    },
+	{
+      "model": "rid_void.jpm",
+      "part": "left", 
+	  "attach": false,
+      "translate": [ 0, 0, 0],
+      "rotate": [0, 0, 0]
+    },
+	{
+      "model": "rid_void.jpm",
+      "part": "right", 
+	  "attach": false,
+      "translate": [ 0, 0, 0],
+      "rotate": [0, 0, 0]
+    }
+  ]
+}

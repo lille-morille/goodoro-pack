@@ -1,0 +1,22 @@
+{
+  "comment": "Made by Mickey Joe Alpha - https://www.Reddit.com/user/MushirMickeyJoe",
+  "createdWith": "Cubik Studio",
+  "textureSize": [128,128],
+  "submodels": [
+    {
+      "id": "e0_Box1",
+      "translate": [8.0,16.0,3.0],
+      "boxes": [
+        {
+          "coordinates": [-6.0,-30.0,0.0,6.0,30.0,6.0],
+          "uvDown": [93,58,99,64],
+          "uvUp": [87,58,93,64],
+          "uvNorth": [87,64,93,94],
+          "uvSouth": [99,64,105,94],
+          "uvWest": [93,64,99,94],
+          "uvEast": [81,64,87,94]
+        }
+      ]
+    }
+  ]
+}

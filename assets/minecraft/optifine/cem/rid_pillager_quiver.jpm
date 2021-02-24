@@ -1,0 +1,45 @@
+{
+  "comment": "Made by Mickey Joe Alpha - https://www.Reddit.com/user/MushirMickeyJoe",
+  "createdWith": "Cubik Studio",
+  "textureSize": [64,64],
+  "submodels": [
+    {
+      "id": "e0_Cube36",
+      "translate": [0.0,0.0,9.0],
+      "rotate": [45.0,0.0,0.0],
+      "boxes": [
+        {
+          "coordinates": [-3.0,-8.0,0.0,3.0,8.0,4.0],
+          "uvDown": [51,26,54,30],
+          "uvUp": [48,26,51,30],
+          "uvNorth": [48,30,51,38],
+          "uvSouth": [55,30,58,38],
+          "uvWest": [51,30,55,38],
+          "uvEast": [44,30,48,38]
+        }
+      ]
+    },
+    {
+      "id": "e1_PlaneX36",
+      "translate": [-7.15255737E-07,-7.07230473,4.759805],
+      "rotate": [45.0,0.0,0.0],
+      "boxes": [
+        {
+          "coordinates": [-3.0,-4.0,0.0,3.0,4.0,0.001],
+          "uvNorth": [45,26,48,30]
+        }
+      ]
+    },
+    {
+      "id": "e2_PlaneZ37",
+      "translate": [-1.49900031,-6.011646,3.69914341],
+      "rotate": [45.0,0.0,0.0],
+      "boxes": [
+        {
+          "coordinates": [-0.001,-4.0,0.0,0.001,4.0,3.0],
+          "uvEast": [45,26,48,30]
+        }
+      ]
+    }
+  ]
+}

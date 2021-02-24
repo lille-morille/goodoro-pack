@@ -1,0 +1,26 @@
+{
+  "models": 
+  [
+    {
+      "model": "rid_stray_body.jpm",
+      "part": "body", 
+	  "attach": false,
+      "translate": [ 8, 12, -9],
+      "rotate": [0, 0, 0]
+    },
+	{
+      "model": "rid_skeleton_skull_1.jpm",
+      "part": "head", 
+	  "attach": false,
+      "translate": [ 8, 0, -8],
+      "rotate": [0, 0, 0]
+    },
+	{
+      "model": "rid_void.jpm",
+      "part": "headwear", 
+	  "attach": false,
+      "translate": [ 0, 0, 0],
+      "rotate": [0, 0, 0]
+    }
+  ]
+}

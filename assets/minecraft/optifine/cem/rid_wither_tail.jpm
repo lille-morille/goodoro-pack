@@ -1,0 +1,106 @@
+{
+  "comment": "Made by Mickey Joe Alpha - https://www.Reddit.com/user/MushirMickeyJoe",
+  "createdWith": "Cubik Studio",
+  "textureSize": [128,128],
+  "submodels": [
+    {
+      "id": "e0_Box1",
+      "translate": [3.0,7.0,0.5],
+      "boxes": [
+        {
+          "coordinates": [-2.0,-6.0,0.0,2.0,6.0,2.0],
+          "uvDown": [8,64,12,68],
+          "uvUp": [4,64,8,68],
+          "uvNorth": [4,68,8,80],
+          "uvSouth": [12,68,16,80],
+          "uvWest": [8,68,12,80],
+          "uvEast": [0,68,4,80]
+        }
+      ]
+    },
+    {
+      "id": "e1_Box2",
+      "translate": [1.0,2.5,1.0],
+      "boxes": [
+        {
+          "coordinates": [-2.0,-1.0,0.0,2.0,1.0,1.0],
+          "uvDown": [6,82,10,84],
+          "uvUp": [2,82,6,84],
+          "uvNorth": [2,84,6,86],
+          "uvSouth": [8,84,12,86],
+          "uvEast": [0,84,2,86]
+        }
+      ]
+    },
+    {
+      "id": "e2_Box2",
+      "translate": [5.0,2.5,1.0],
+      "boxes": [
+        {
+          "coordinates": [-2.0,-1.0,0.0,2.0,1.0,1.0],
+          "uvDown": [18,82,22,84],
+          "uvUp": [14,82,18,84],
+          "uvNorth": [14,84,18,86],
+          "uvSouth": [20,84,24,86],
+          "uvWest": [18,84,20,86]
+        }
+      ]
+    },
+    {
+      "id": "e3_Box4",
+      "translate": [1.0,4.5,1.0],
+      "boxes": [
+        {
+          "coordinates": [-1.5,-1.0,0.0,1.5,1.0,1.0],
+          "uvDown": [5,86,8,88],
+          "uvUp": [2,86,5,88],
+          "uvNorth": [2,88,5,90],
+          "uvSouth": [7,88,10,90],
+          "uvEast": [0,88,2,90]
+        }
+      ]
+    },
+    {
+      "id": "e4_Box4",
+      "translate": [4.5,4.5,1.0],
+      "boxes": [
+        {
+          "coordinates": [-1.5,-1.0,0.0,1.5,1.0,1.0],
+          "uvDown": [15,86,18,88],
+          "uvUp": [12,86,15,88],
+          "uvNorth": [12,88,15,90],
+          "uvSouth": [17,88,20,90],
+          "uvWest": [15,88,17,90]
+        }
+      ]
+    },
+    {
+      "id": "e5_Box6",
+      "translate": [1.0,6.5,1.0],
+      "boxes": [
+        {
+          "coordinates": [-1.0,-1.0,0.0,1.0,1.0,1.0],
+          "uvDown": [4,90,6,92],
+          "uvUp": [2,90,4,92],
+          "uvNorth": [2,92,4,94],
+          "uvSouth": [6,92,8,94],
+          "uvEast": [0,92,2,94]
+        }
+      ]
+    },
+    {
+      "id": "e6_Box7",
+      "translate": [4.0,6.5,1.0],
+      "boxes": [
+        {
+          "coordinates": [-1.0,-1.0,0.0,1.0,1.0,1.0],
+          "uvDown": [12,90,14,92],
+          "uvUp": [10,90,12,92],
+          "uvNorth": [10,92,12,94],
+          "uvSouth": [14,92,16,94],
+          "uvWest": [12,92,14,94]
+        }
+      ]
+    }
+  ]
+}

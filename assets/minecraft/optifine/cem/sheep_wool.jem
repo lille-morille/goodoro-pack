@@ -1,0 +1,47 @@
+{
+  "models": 
+  [
+    {
+      "model": "rid_sheep_wool_head.jpm",
+      "part": "head", 
+	  "attach": false,
+      "translate": [ 3.5, 2.5, -4.5],
+      "rotate": [0, 0, 0]
+    },
+    {
+      "model": "rid_sheep_wool_body.jpm",
+      "part": "body", 
+	  "attach": false,
+      "translate": [ 6, -11, -9],
+      "rotate": [270, 0, 0]
+    },
+    {
+      "model": "rid_sheep_wool_legs.jpm",
+      "part": "leg1", 
+	  "attach": false,
+      "translate": [ 2.5, 6.5, -2.5],
+      "rotate": [0, 0, 0]
+    },
+    {
+      "model": "rid_sheep_wool_legs.jpm",
+      "part": "leg2", 
+	  "attach": false,
+      "translate": [ 2.5, 6.5, -2.5],
+      "rotate": [0, 0, 0]
+    },
+    {
+      "model": "rid_sheep_wool_legs.jpm",
+      "part": "leg3", 
+	  "attach": false,
+      "translate": [ 2.5, 6.5, -2.5],
+      "rotate": [0, 0, 0]
+    },
+    {
+      "model": "rid_sheep_wool_legs.jpm",
+      "part": "leg4", 
+	  "attach": false,
+      "translate": [ 2.5, 6.5, -2.5],
+      "rotate": [0, 0, 0]
+    }
+  ]
+}

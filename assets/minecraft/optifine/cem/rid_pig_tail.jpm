@@ -1,0 +1,19 @@
+{
+  "comment": "Made by Mickey Joe Alpha - https://www.Reddit.com/user/MushirMickeyJoe",
+  "createdWith": "Cubik Studio",
+  "textureSize": [64,32],
+  "submodels": [
+    {
+      "id": "e0_PlaneX7",
+      "translate": [-8.0,-3.0625,15.59375],
+      "rotate": [337.5,0.0,0.0],
+      "boxes": [
+        {
+          "coordinates": [-0.001,-5.0,0.0,0.001,5.0,4.0],
+          "uvWest": [60,8,64,13],
+          "uvEast": [56,8,60,13]
+        }
+      ]
+    }
+  ]
+}

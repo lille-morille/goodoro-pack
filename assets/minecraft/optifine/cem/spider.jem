@@ -1,0 +1,19 @@
+{
+  "models": 
+  [
+    {
+      "model": "rid_spider_abdomen.jpm",
+      "part": "body", 
+	  "attach": false,
+      "translate": [ 8, 5.5, -9],
+      "rotate": [0, 0, 0]
+    },
+    {
+      "model": "rid_spider_chelicerae.jpm",
+      "part": "head", 
+	  "attach": true,
+      "translate": [ 0, 0, 0],
+      "rotate": [0, 0, 0]
+    }
+  ]
+}

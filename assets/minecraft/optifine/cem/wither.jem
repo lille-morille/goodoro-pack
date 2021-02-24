@@ -1,0 +1,47 @@
+{
+  "models": 
+  [
+    {
+      "model": "rid_wither_skull_middle.jpm",
+      "part": "head1", 
+	  "attach": false,
+      "translate": [ 0, 0, 0],
+      "rotate": [0, 0, 0]
+    },
+	{
+      "model": "rid_wither_shoulders.jpm",
+      "part": "body1", 
+	  "attach": false,
+      "translate": [ 0, 0, 0],
+      "rotate": [0, 0, 0]
+    },
+	{
+      "model": "rid_wither_ribs.jpm",
+      "part": "body2", 
+	  "attach": false,
+      "translate": [ 0, 0.5, 0],
+      "rotate": [10, 0, 0]
+    },
+	{
+      "model": "rid_wither_tail.jpm",
+      "part": "body3", 
+	  "attach": false,
+      "translate": [ 0, 1, 1.1],
+      "rotate": [10, 0, 0]
+    },
+	{
+      "model": "rid_wither_skull_sides.jpm",
+      "part": "head2", 
+	  "attach": false,
+      "translate": [ 0, -0.4, 0],
+      "rotate": [11, 0, -11]
+    },
+	{
+      "model": "rid_wither_skull_sides.jpm",
+      "part": "head3", 
+	  "attach": false,
+      "translate": [ 0, 0, 0],
+      "rotate": [11, 0, 11]
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "models": 
+  [
+    {
+      "model": "rid_pillager_quiver.jpm",
+      "part": "body", 
+	  "attach": true,
+      "translate": [ 7.5, 17, -7],
+      "rotate": [0, 0, 0]
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "models": 
+  [
+    {
+      "model": "rid_skeleton_body.jpm",
+      "part": "body", 
+	  "attach": false,
+      "translate": [ 8, 12, -9],
+      "rotate": [0, 0, 0]
+    },
+	{
+      "model": "rid_skeleton_skull_0.jpm",
+      "part": "head", 
+	  "attach": false,
+      "translate": [ 8, 0, -8],
+      "rotate": [0, 0, 0]
+    },
+	{
+      "model": "rid_void.jpm",
+      "part": "headwear", 
+	  "attach": false,
+      "translate": [ 0, 0, 0],
+      "rotate": [0, 0, 0]
+    },
+	{
+      "model": "rid_skeleton_right_arm.jpm",
+      "part": "right_arm", 
+	  "attach": false,
+      "translate": [ 8, 10, -8],
+      "rotate": [0, 0, 0]
+    },
+	{
+      "model": "rid_skeleton_left_arm.jpm",
+      "part": "left_arm", 
+	  "attach": false,
+      "translate": [ 8, 10, -8],
+      "rotate": [0, 0, 0]
+    },
+	{
+      "model": "rid_skeleton_right_leg.jpm",
+      "part": "right_leg", 
+	  "attach": false,
+      "translate": [ 8, 12, -8],
+      "rotate": [0, 0, 0]
+    },
+	{
+      "model": "rid_skeleton_left_leg.jpm",
+      "part": "left_leg", 
+	  "attach": false,
+      "translate": [ 8, 12, -8],
+      "rotate": [0, 0, 0]
+    }
+  ]
+}

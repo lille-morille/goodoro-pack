@@ -1,0 +1,70 @@
+{
+  "comment": "Made by Mickey Joe Alpha - https://www.Reddit.com/user/MushirMickeyJoe",
+  "createdWith": "Cubik Studio",
+  "textureSize": [128,128],
+  "submodels": [
+    {
+      "id": "e0_Box1",
+      "translate": [4.0,0.5,-4.0],
+      "boxes": [
+        {
+          "coordinates": [-8.0,-5.5,0.0,8.0,5.5,8.0],
+          "uvDown": [32,0,48,16],
+          "uvUp": [16,0,32,16],
+          "uvNorth": [16,16,32,27],
+          "uvSouth": [48,16,64,27],
+          "uvWest": [32,16,48,27],
+          "uvEast": [0,16,16,27]
+        }
+      ]
+    },
+    {
+      "id": "e1_PlaneZ2",
+      "translate": [3.0,1.5,-4.0],
+      "boxes": [
+        {
+          "coordinates": [-6.0,-1.0,0.0,6.0,1.0,0.001],
+          "uvNorth": [18,27,30,29]
+        }
+      ]
+    },
+    {
+      "id": "e2_PlaneZ3",
+      "translate": [2.0,3.0,-4.0],
+      "boxes": [
+        {
+          "coordinates": [-4.0,-1.0,0.0,4.0,1.0,0.001],
+          "uvNorth": [20,30,28,32]
+        }
+      ]
+    },
+    {
+      "id": "e3_Box4",
+      "translate": [3.0,4.0,-4.0],
+      "boxes": [
+        {
+          "coordinates": [-6.0,-1.0,0.0,6.0,1.0,3.0],
+          "uvDown": [93,0,105,6],
+          "uvUp": [81,0,93,6],
+          "uvNorth": [81,6,93,8],
+          "uvWest": [93,6,99,8],
+          "uvEast": [75,6,81,8]
+        }
+      ]
+    },
+    {
+      "id": "e4_Box5",
+      "translate": [4.0,4.0,-1.0],
+      "boxes": [
+        {
+          "coordinates": [-8.0,-3.5,0.0,8.0,3.5,5.0],
+          "uvDown": [105,0,121,10],
+          "uvNorth": [86,10,102,17],
+          "uvSouth": [112,10,128,17],
+          "uvWest": [101,10,112,17],
+          "uvEast": [76,10,86,17]
+        }
+      ]
+    }
+  ]
+}

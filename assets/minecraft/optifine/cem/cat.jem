@@ -1,0 +1,12 @@
+{
+  "models": 
+  [
+    {
+      "model": "rid_cat_head.jpm",
+      "part": "head", 
+	  "attach": false,
+      "translate": [ 8, 7.5, -8.5],
+      "rotate": [0, 0, 0]
+    }
+  ]
+}

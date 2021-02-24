@@ -1,0 +1,86 @@
+{
+  "comment": "Made by Mickey Joe Alpha - https://www.Reddit.com/user/MushirMickeyJoe",
+  "createdWith": "Cubik Studio",
+  "textureSize": [128,128],
+  "submodels": [
+    {
+      "id": "e0_Box1",
+      "translate": [-18.0,2.0,1.0],
+      "boxes": [
+        {
+          "coordinates": [-9.0,-9.0,0.0,9.0,9.0,9.0],
+          "uvDown": [18,19,27,28],
+          "uvUp": [9,19,18,28],
+          "uvNorth": [9,28,18,37],
+          "uvSouth": [27,28,36,37],
+          "uvWest": [18,28,27,37],
+          "uvEast": [0,28,9,37]
+        }
+      ]
+    },
+    {
+      "id": "e1_Box1",
+      "translate": [11.0,2.0,1.0],
+      "boxes": [
+        {
+          "coordinates": [-9.0,-9.0,0.0,9.0,9.0,9.0],
+          "uvDown": [101,0,110,9],
+          "uvUp": [92,0,101,9],
+          "uvNorth": [92,9,101,18],
+          "uvSouth": [110,9,119,18],
+          "uvWest": [101,9,110,18],
+          "uvEast": [83,9,92,18]
+        }
+      ]
+    },
+    {
+      "id": "e2_Box3",
+      "translate": [2.0,9.0,0.0],
+      "boxes": [
+        {
+          "coordinates": [-20.0,-12.0,0.0,20.0,12.0,11.0],
+          "uvDown": [79,95,99,106],
+          "uvUp": [59,95,79,106],
+          "uvNorth": [58,106,79,118],
+          "uvSouth": [90,106,110,118],
+          "uvWest": [78,106,89,118],
+          "uvEast": [48,106,59,118]
+        }
+      ]
+    },
+    {
+      "id": "e3_Box4",
+      "translate": [-1.0,16.0,1.5],
+      "boxes": [
+        {
+          "coordinates": [-14.0,-7.0,0.0,14.0,7.0,8.0],
+          "uvDown": [31,74,45,82],
+          "uvNorth": [16,82,30,89],
+          "uvSouth": [38,82,52,89],
+          "uvWest": [30,82,38,89],
+          "uvEast": [8,82,15,89]
+        }
+      ]
+    },
+    {
+      "id": "e4_PlaneX5",
+      "translate": [-27.0,5.0,6.0],
+      "boxes": [
+        {
+          "coordinates": [-0.001,-3.0,0.0,0.001,3.0,4.0],
+          "uvEast": [0,37,4,40]
+        }
+      ]
+    },
+    {
+      "id": "e5_PlaneZ6",
+      "translate": [-23.0,4.0,10.0],
+      "boxes": [
+        {
+          "coordinates": [-4.0,-2.0,0.0,4.0,2.0,0.001],
+          "uvSouth": [32,37,36,39]
+        }
+      ]
+    }
+  ]
+}

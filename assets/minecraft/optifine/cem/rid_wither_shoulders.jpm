@@ -1,0 +1,64 @@
+{
+  "comment": "Made by Mickey Joe Alpha - https://www.Reddit.com/user/MushirMickeyJoe",
+  "createdWith": "Cubik Studio",
+  "textureSize": [128,128],
+  "submodels": [
+    {
+      "id": "e0_Box1",
+      "translate": [9.5,7.0,0.0],
+      "boxes": [
+        {
+          "coordinates": [-19.0,-2.0,0.0,19.0,2.0,2.0],
+          "uvDown": [42,32,80,36],
+          "uvUp": [4,32,42,36],
+          "uvNorth": [4,36,42,40],
+          "uvSouth": [46,36,84,40],
+          "uvWest": [42,36,46,40],
+          "uvEast": [0,36,4,40]
+        }
+      ]
+    },
+    {
+      "id": "e1_Box2",
+      "translate": [1.0,5.0,0.0],
+      "boxes": [
+        {
+          "coordinates": [-2.0,-2.0,0.0,2.0,2.0,2.0],
+          "uvUp": [21,32,25,36],
+          "uvNorth": [4,28,8,32],
+          "uvSouth": [11,28,15,32],
+          "uvWest": [8,28,12,32],
+          "uvEast": [0,28,4,32]
+        }
+      ]
+    },
+    {
+      "id": "e2_Box2",
+      "translate": [-7.5,5.0,0.0],
+      "boxes": [
+        {
+          "coordinates": [-2.0,-2.0,0.0,2.0,2.0,2.0],
+          "uvUp": [21,32,25,36],
+          "uvNorth": [4,28,8,32],
+          "uvSouth": [11,28,15,32],
+          "uvWest": [8,28,12,32],
+          "uvEast": [0,28,4,32]
+        }
+      ]
+    },
+    {
+      "id": "e3_Box2",
+      "translate": [9.5,5.0,0.0],
+      "boxes": [
+        {
+          "coordinates": [-2.0,-2.0,0.0,2.0,2.0,2.0],
+          "uvUp": [21,32,25,36],
+          "uvNorth": [4,28,8,32],
+          "uvSouth": [11,28,15,32],
+          "uvWest": [8,28,12,32],
+          "uvEast": [0,28,4,32]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "models": 
+  [
+    {
+      "model": "rid_pig_head.jpm",
+      "part": "head", 
+	  "attach": false,
+      "translate": [ 8, 8, -12],
+      "rotate": [0, 0, 0]
+    },
+	{
+      "model": "rid_pig_tail.jpm",
+      "part": "body", 
+	  "attach": true,
+      "translate": [ 8, -10, -7],
+      "rotate": [-90, 0, 0]
+    }
+  ]
+}

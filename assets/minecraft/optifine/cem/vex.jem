@@ -1,0 +1,33 @@
+{
+  "models": 
+  [
+    {
+      "model": "rid_vex_head.jpm",
+      "part": "head", 
+	  "attach": false,
+      "translate": [ 0, 0, 0],
+      "rotate": [0, 0, 0]
+    },
+	{
+      "model": "rid_vex_wing.jpm",
+      "part": "left_wing", 
+	  "attach": false,
+      "translate": [ 6, 22, 0],
+      "rotate": [0, 180, -15]
+    },
+	{
+      "model": "rid_vex_wing.jpm",
+      "part": "right_wing", 
+	  "attach": false,
+      "translate": [ -6, 22, 0],
+      "rotate": [0, 0, 15]
+    },
+	{
+      "model": "rid_vex_tail.jpm",
+      "part": "right_leg", 
+	  "attach": false,
+      "translate": [ 5, 11, -2],
+      "rotate": [0, 0, 0]
+    }
+  ]
+}

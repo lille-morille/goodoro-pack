@@ -1,0 +1,21 @@
+{
+  "comment": "Made by Mickey Joe Alpha - https://www.Reddit.com/user/MushirMickeyJoe",
+  "createdWith": "Cubik Studio",
+  "textureSize": [64,32],
+  "submodels": [
+    {
+      "id": "e0_Box2",
+      "translate": [-10.0,0.75,7.0],
+      "boxes": [
+        {
+          "coordinates": [-1.5,-14.25,0.0,1.5,14.25,1.5],
+          "uvDown": [2,9,3,10],
+          "uvNorth": [1,10,2,19],
+          "uvSouth": [3,10,4,19],
+          "uvWest": [2,10,3,19],
+          "uvEast": [0,10,1,19]
+        }
+      ]
+    }
+  ]
+}
