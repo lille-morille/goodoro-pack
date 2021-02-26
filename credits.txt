@@ -13,6 +13,5 @@ Ultimate Boss Bars: https://www.planetminecraft.com/texture-pack/ultimate-boss-b
 Advanced GUI: https://resourcepack.net/advanced-gui-resource-pack/
 
 --- SOUNDS ---
-Eating: https://freesound.org/people/carrieedick/sounds/461342/
+Eat/drink: https://www.youtube.com/watch?v=K_tWOUDCrNw&list=PLM2olfSb_vjbSqL9PIpT1n_HQqqaW6CWh&index=15&ab_channel=MathoX
 Burp: https://freesound.org/people/InspectorJ/sounds/428137/
-Drink: https://freesound.org/people/fille1000/sounds/67230/
