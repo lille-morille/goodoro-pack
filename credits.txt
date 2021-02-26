@@ -13,6 +13,6 @@ Ultimate Boss Bars: https://www.planetminecraft.com/texture-pack/ultimate-boss-b
 Advanced GUI: https://resourcepack.net/advanced-gui-resource-pack/
 
 --- SOUNDS ---
-Eating (eat1, eat2, eat3): https://freesound.org/people/carrieedick/sounds/461342/
-Burp (burp): https://freesound.org/people/InspectorJ/sounds/428137/
-Drink (drink): https://freesound.org/people/fille1000/sounds/67230/
+Eating: https://freesound.org/people/carrieedick/sounds/461342/
+Burp: https://freesound.org/people/InspectorJ/sounds/428137/
+Drink: https://freesound.org/people/fille1000/sounds/67230/
