@@ -1,10 +1,11 @@
 # Goodoro Pack
-A Minecraft improved vanilla resource pack.
+A Minecraft improved quality of life vanilla resource pack.
+The pack feels fresh yet familiar; perfect for combining with other resource packs! 
 
 **The resource pack features:**
 - Custom entity models
 - Improved sounds
-- A new and customized GUI
+- Dark mode and colorful GUI
 - Clean textures
 - Custom language
 - And much more!
