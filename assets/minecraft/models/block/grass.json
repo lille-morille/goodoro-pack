@@ -1,7 +1,0 @@
-{
-    "parent": "block/tallgrass",
-    "textures": {
-        "cross": "block/grass",
-		"particle": "block/grass"
-    }
-}
