@@ -1,18 +1,19 @@
+### DISCLAIMER ###
 The following sources were used as inspiration/copied from to produce this resource pack.
 A huge thank you to the creators!! <3
 
---- TEXTURES ---
+### TEXTURES ###
 Vanilla Tweaks: https://vanillatweaks.net/
 Caliburn pack release: https://www.youtube.com/watch?v=pztMgZxTWxA&t=0s&ab_channel=emmalynnpacks
 Sucro's Food Pack: https://www.planetminecraft.com/texture-pack/sucro-s-food-pack/
 Mob Drop Tweaks: https://www.planetminecraft.com/texture-pack/mob-drop-tweaks/
-Colourful Containers: https://www.planetminecraft.com/texture-pack/colourful-containers-gui/
+Colorful Containers: https://www.planetminecraft.com/texture-pack/colourful-containers-gui/
 Sully's Pack: https://www.curseforge.com/minecraft/texture-packs/sullys-pack
 Spawn Egg 3D: https://www.planetminecraft.com/texture-pack/spawn-egg-3d/
 Ultimate Boss Bars: https://www.planetminecraft.com/texture-pack/ultimate-boss-bars-v1/
 Advanced GUI: https://resourcepack.net/advanced-gui-resource-pack/
 JermsyBoy's Vanilla Edits: https://www.curseforge.com/minecraft/texture-packs/jermsyboys-vanilla-edits/files/2827282
 
---- SOUNDS ---
+### SOUNDS ###
 Eat/drink: https://www.youtube.com/watch?v=K_tWOUDCrNw&list=PLM2olfSb_vjbSqL9PIpT1n_HQqqaW6CWh&index=15&ab_channel=MathoX
 Burp: https://freesound.org/people/InspectorJ/sounds/428137/
