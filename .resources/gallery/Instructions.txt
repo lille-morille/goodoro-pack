@@ -1,0 +1,10 @@
+### Gallery ###
+We should have some images showcasing the different features of the texture pack.
+
+### TASKS ###
+[ ] Items
+[ ] Ores
+[ ] GUIs
+[ ] Weapons and tools
+[ ] Unique books
+[ ] Entity models
