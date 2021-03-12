@@ -6,12 +6,14 @@ The pack feels fresh yet familiar; perfect for combining with other resource pac
 - Custom entity models
 - Improved sounds
 - Dark mode and colorful GUI
-- 1.17 ores with outlines
+- 1.17 ores
 - Music disks replaced with cassettes
 - Unique textures for all dye
 - Custom language
 - Higher definition font
-- And much more!
+- Custom sky
+- Custom biome colors
+
 
 ### Highlights
 ![Dark mode UI with colorful details](https://user-images.githubusercontent.com/69890033/109424539-49a53400-79e4-11eb-81a2-a18df7a3e98d.png)
